@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief abstract of the great oppresions and injuries which the late managers of the East-India-Company have acted on the lives, liberties and estates of their fellow-subjects with a short account of their unjust dealings with the natives in sundry parts of India, which has so much expos'd the honour and interest of the nation, and hazarded the loss of that advantageous trade, humbly presented to the consideration of the honourable, the knights, citizens and burgesses, in Parliament assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29397</idno>
+            <idno type="STC">Wing B4497</idno>
+            <idno type="STC">ESTC R37133</idno>
+            <idno type="EEBO-CITATION">16219666</idno>
+            <idno type="OCLC">ocm 16219666</idno>
+            <idno type="VID">105126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1088:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief abstract of the great oppresions and injuries which the late managers of the East-India-Company have acted on the lives, liberties and estates of their fellow-subjects with a short account of their unjust dealings with the natives in sundry parts of India, which has so much expos'd the honour and interest of the nation, and hazarded the loss of that advantageous trade, humbly presented to the consideration of the honourable, the knights, citizens and burgesses, in Parliament assembled.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Child, Josiah, --  Sir, 1630-1699.</term>
+               <term>East India Company --  Controversial literature.</term>
+               <term>Corporations --  England --  Corrupt practices.</term>
+               <term>Great Britain --  Commerce --  India.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105126:1" rendition="simple:additions"/>
+            <head>A BRIEF ABSTRACT OF THE Great <hi>Oppreſsions</hi> and <hi>Injuries</hi> which the late MANAGERS of the Eaſt-India-Company Have Acted on the LIVES, LIBERTIES and ESTATES of their <hi>Fellow-Subjects.</hi> WITH A SHORT ACCOUNT OF THEIR Unjuſt Dealings with the Natives in ſundry Parts of <hi>INDIA;</hi> which has ſo much expos'd the Ho<g ref="char:EOLhyphen"/>nour and Intereſt of the Nation, and hazarded the Loſs of that Advantageous Trade; <hi>Humbly Preſented to the Conſideration of the Honourable, the Knights, Citizens and Burgeſſes, in Parliament Aſſembled.</hi>
+            </head>
+            <p>THEY have been great Promoters of <hi>Arbitrary Government,</hi> endea<g ref="char:EOLhyphen"/>vouring by all Ways and Means to deſtroy the <hi>Rights</hi> and <hi>Liber<g ref="char:EOLhyphen"/>ties</hi> of the People, and enſlave us both at home and abroad to the Abſolute <hi>Will</hi> and <hi>Pleaſure</hi> of the late <hi>King</hi> and <hi>Themſelves;</hi> as ap<g ref="char:EOLhyphen"/>pears by the following Intimations of their moſt <hi>Illegal Practices.</hi>
+            </p>
+            <p>In the Firſt and Second Years of the Reign of the late <hi>King,</hi> they did pro<g ref="char:EOLhyphen"/>cure his ſaid Majeſty's Proclamations, prohibiting their Fellow-Subjects from Trading to <hi>India,</hi> and commanding all Perſons from their Employments and Settlements in thoſe Parts, to repair to the <hi>Company</hi>'s Garriſons in <hi>India,</hi> or re<g ref="char:EOLhyphen"/>turn home on <hi>Pain of Death, and Forfeiture of Eſtate.</hi>
+            </p>
+            <p>They procur'd Judgment to be given in the <hi>King's Bench</hi> by the late <hi>Chief Juſtice Jefferies,</hi> whereby the <hi>King's</hi> Proclamation was declar'd to be Law, and Juries directed to find Damages accordingly. And thereupon, moſt vexa<g ref="char:EOLhyphen"/>tious
+<pb n="2" facs="tcp:105126:2"/>and chargeable Suits were brought againſt ſundry Perſons, for ſuch im<g ref="char:EOLhyphen"/>menſe Sums as 150 and 200000 Pound-Actions, and diverſe People were il<g ref="char:EOLhyphen"/>legally Fin'd on Informations of pretended Miſdemeanors, for Trading to <hi>India:</hi> Some Ships deſign'd on Voyages thither, have been Arbitrarily ob<g ref="char:EOLhyphen"/>ſtructed, and others, at their Return, forc'd to Ranſom their Cargoes at the Coſt of the Fifth Part of their Values; whereby great Sums of Money have been extorted from the Subject contrary to all Juſtice and the known-Laws of the Land; and for the carrying on theſe their unlawful and exorbitant Op<g ref="char:EOLhyphen"/>preſſions, they procur'd a Letter from the Late <hi>King</hi> to the <hi>Judge</hi> of the <hi>Admiralty,</hi> which was deliver'd by one of their <hi>Agents</hi> in open <hi>Court;</hi> whereby he was over-aw'd in the Execution of his Office, and the due courſe of <hi>Law</hi> and <hi>Juſtice</hi> obſtructed: By which illegal Proceedings ſeve<g ref="char:EOLhyphen"/>ral of their Fellow-Subjects have been damnify'd to the amount of 40000 <abbr>l.</abbr>
+            </p>
+            <p>They did procure a Ship of the Late <hi>King</hi>'s to be ſent to <hi>India,</hi> with Commiſſion to <hi>ſeize,</hi> or <hi>deſtroy</hi> all the Ships and Goods of their Fellow-Subjects that were found in the Limits of their Charter; and accordingly, ſaid Man of War did <hi>ſeize</hi> and occaſion the <hi>deſtruction</hi> of Three Ships and Cargoes, to the value of about 60000 <abbr>l.</abbr>
+            </p>
+            <p>They did alſo procure a Power from the Late <hi>King,</hi> to Erect <hi>Courts</hi> of <hi>Judicature,</hi> and exerciſe <hi>Marſhal-Law</hi> within the Limits of their <hi>Charter;</hi> and to paſs final Sentence in Caſes Civil and Criminal without Appeal to <hi>England,</hi> which is humbly conceiv'd to be a moſt <hi>Arbitrary Invaſion</hi> of the Fundamental <hi>Rights</hi> and <hi>Liberties</hi> of their <hi>Fellow-Subjects.</hi>
+            </p>
+            <p>They did by their Influences at <hi>Court,</hi> procure the late <hi>King's</hi> Commiſſion to the Commanders of their own freighted Ships, with leave to wear the Royal Enſigns; under which they have ſeiz'd ſeveral of their Fellow-Subjects Ships and Cargo's in <hi>India,</hi> carrying them to thoſe Places where they have ſet up <hi>
+                  <g ref="char:V">Ʋ</g>nlawful Courts,</hi> which they call <hi>Courts</hi> of <hi>Admiralty;</hi> and there made Prize of them, to the Ruine of their Proprietors, from whom they have in this manner taken the Value of above 50000 <abbr>l.</abbr>
+            </p>
+            <p>As to their moſt unaccountable Actions at <hi>St. Hellena,</hi> in <hi>deſtroying,</hi> as well the <hi>Lives</hi> as <hi>Eſtates</hi> of their Fellow-Subiects at that Place, This <hi>Honourable Houſe</hi> has been already Preſented with a particular Account thereof by the Humble Petitions of ſome of the Perſons agriev'd, ſhewing, that beſides four Men which were kill'd, and fourteen wounded, they executed Two by a <hi>Court</hi> Illegally erected by the <hi>Governor</hi> there, and five more were put to Death by a <hi>Court-Marſhal,</hi> ſet up in that Place by the <hi>Company</hi>'s Procurement.</p>
+            <p>For the obtaining, and ſupport of this Unlimited, Arbitrary Power over their Fellow-Subjects, Thoſe that manag'd the Affair, have preſum'd to Iſſue out Great Sums of the <hi>Company</hi>'s Money under the Title of <hi>Secret Services;</hi> And they had brought themſelves under the <hi>Annual Tribute</hi> of Ten Thouſand Guinneas to the <hi>Crown</hi> as was ſeveral years paid to the Two Late <hi>Kings.</hi>
+            </p>
+            <p>Nothing can be more notorious than the exorbitant Power they uſe to aſ<g ref="char:EOLhyphen"/>ſume over thoſe that are concern'd with them, as well Merchants and Mari<g ref="char:EOLhyphen"/>ners in their Service, as Owners of Ships they take to Freight: Whereof Nu<g ref="char:EOLhyphen"/>merous Inſtances might be given; But it may ſuffice for all to obſerve, That upon any Difference which happens between them and any of the foreſaid Perſons, They compel them to ſtand to ſuch Determination, as ſhall be made by <hi>Arbitrators</hi> choſen out of their <hi>Own Committee,</hi> And ſo their <hi>Will</hi> is their <hi>Law;</hi> And they are both <hi>Parties</hi> and <hi>Judges</hi> in the Caſe, which is a moſt Arbi<g ref="char:EOLhyphen"/>trary inſulting over their fellow Subjects.</p>
+            <p>They did ſome time ſince take upon them to deny Payment of Moneys when due, and requir'd by their <hi>Creditors,</hi> and preſum'd to affix a Writing over their Door, declaring that they would not diſcharge any of their ſaid Debts till a certain time as they were therein pleas'd to appoint.</p>
+            <pb n="3" facs="tcp:105126:2"/>
+            <p>Some of the prevailing Members in the <hi>Committee,</hi> have of late preſum'd to introduce a new way of <hi>vending</hi> the <hi>Company</hi>'s Goods by <hi>Private Con<g ref="char:EOLhyphen"/>tract;</hi> which is directly contrary to their Eſtabliſh'd Rules; and is very pre<g ref="char:EOLhyphen"/>judicial to the <hi>Trading Merchants</hi> in general, as well as to the <hi>Company</hi>'s Intereſt, being a <hi>Monopoly</hi> in it ſelf, and deſign'd only for the private Advan<g ref="char:EOLhyphen"/>tage of ſome few Perſons that are admitted to a Concern therein.</p>
+            <p>They have taken upon them to impoſe <hi>Illegal Oaths</hi> on their Fellow-Sub<g ref="char:EOLhyphen"/>jects both at home and abroad; As for one Inſtance, Their <hi>General</hi> Sir <hi>JOHN CHILD,</hi> forc'd this following Oath to be Subſcrib'd and Sworn to by ſundry Sea-men belonging to the Ship <hi>Adventure</hi> in the River of <hi>Surrat,</hi> be<g ref="char:EOLhyphen"/>fore he would pay them their Wages, <hi>viz.</hi>
+            </p>
+            <p>I <hi>The Subſcriber, will be Obedient to His Majeſty, and obſervant of His Authority eſtabliſh'd here abroad, and hereby declare, I will, in Obedience to His Proclamation, Royal and Righteous Com<g ref="char:EOLhyphen"/>mand, withdraw my ſelf from, and wholly relinquiſh with Abhor<g ref="char:EOLhyphen"/>rence, all</hi> Rebels <hi>and</hi> Interlopers. <hi>Witneſs my Hand.</hi>
+            </p>
+            <p>They have of late years ſent out Ships to <hi>India</hi> at moſt unſeaſonable times, and detain'd them there much longer than uſual, or than any real Intereſt of the <hi>Company</hi>'s in a Regular Management of the Trade would re<g ref="char:EOLhyphen"/>quire; and ſince, by their great Neglects, the <hi>Dutch</hi> took the Advantage to make themſelves Maſters of <hi>Bantam,</hi> whereby they were expuls'd from their moſt Commodious Settlement there. They have employ'd Ships for the pro<g ref="char:EOLhyphen"/>curement of <hi>Pepper</hi> to ſuch Places, which for the known Unhealthineſs of the Air, were formerly excepted in <hi>Charter-Parties;</hi> by all whieh moſt impru<g ref="char:EOLhyphen"/>dent and irregular Actions, they have <hi>occaſion'd the Loſs of ſeveral Thouſands of our beſt Sea-men,</hi> and <hi>deſtroyed ſeveral conſiderable Ships,</hi> to the great Da<g ref="char:EOLhyphen"/>mage of the Nation in general, as well as to the particular Owners; And out of this Ruine to others, the <hi>Company</hi> hope to reap the Benefit of employing ſaid Ships ſome Years, without paying any thing at laſt for Freight or De<g ref="char:EOLhyphen"/>morage due to them.</p>
+            <p>Beſides theſe evil Practices on their Fellow-Subjects, whoſe <hi>Lives</hi> and <hi>Eſtates</hi> they have thus diſpos'd of at their Pleaſure, their late Dealings alſo with the <hi>Natives</hi> of <hi>India,</hi> have been moſt unjuſt and unaccountable: For, firſt their <hi>General</hi> Sir <hi>John Child,</hi> did by their <hi>Order</hi> borrow of the Merchants of <hi>Sur<g ref="char:EOLhyphen"/>rat</hi> for their Accounts, about 400000 <abbr>l.</abbr> Sterling; And then withdrew from the Place without rendring any ſatisfaction for that <hi>vaſt Debt;</hi> And at his Arrival at their Iſland of <hi>Bombay,</hi> he employ'd the Engliſh Ships un<g ref="char:EOLhyphen"/>der his Command to make further ſpoil on the <hi>Mogull</hi>'s Subjects, by <hi>ſeizing</hi> all their Ships and Goods they could meet with; which violence they committed under the <hi>Royal Enſigns</hi> of our Nation. And by the laſt advice from thoſe Parts they had taken about fifteen Sail, computed to amount in the whole to a much <hi>bigger Sum</hi> than their <hi>aforeſaid Debt</hi> which they left unpaid at <hi>Surrat:</hi> And theſe their ſtrange Proceedings are in all reſpects moſt unjuſtifiable; for they have not, in reality re<g ref="char:EOLhyphen"/>ceiv'd any Injuries that require ſuch Reparations. Nor did they make due Applications to the <hi>Great Mogull,</hi> for Redreſs of their pretended Grievances before they acted the foreſaid <hi>Depredations</hi> upon his Subjects.</p>
+            <p>In ſeveral <hi>Ports</hi> in the Bay of <hi>Bengall,</hi> which are alſo in the <hi>Domini<g ref="char:EOLhyphen"/>ons</hi> of the <hi>Great Mogull,</hi> they have not only us'd the like force in taki<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Ships, but alſo made Aſſaults on the Land; <hi>deſtroying</hi> the Houſes, G<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Ships in Harbour by Fire; and killing many of the Inhabitant<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:105126:3"/>all theſe <hi>cruel Outrages</hi> have been committed without any provocations that may help to extenuate, much leſs juſtifie them: Nor has the ſucceſs of their Attempts been better than the Merits of their Cauſe; for by the prepoſterous Actings of thoſe to whom they committed the management of theſe Martial Exploits, there ſeems to have been a fatal Infatuation amongſt them; and all they have hither<g ref="char:EOLhyphen"/>to done in near Three Years, is only to deprive themſelves of that moſt Bene<g ref="char:EOLhyphen"/>ficial Trade, and <hi>dig Graves</hi> for many hundreds of our Country-Men that were employ'd in that unhappy and unjuſtifiable Expedition.</p>
+            <p>They ſeem to deſign to ſet up this new <hi>Trade</hi> of <hi>Warfare,</hi> and make it their main Buſineſs in all Places; for upon moſt unjuſt, groundleſs and frivolous pre<g ref="char:EOLhyphen"/>tences they have likewiſe made <hi>War</hi> on the <hi>King</hi> of <hi>Siam,</hi> wherein their <hi>Ingrati<g ref="char:EOLhyphen"/>tude</hi> doth highly aggravate their <hi>Crime;</hi> for that <hi>Prince</hi> has not only always treated them in a very friendly manner, but been even <hi>laviſh</hi> of his Favours to thoſe of Our Nation, who have Traded to, or reſided in his Kingdom; And he had taken into his Service ſeveral of our Country-Men, amongſt whom, ſome were preferr'd to places of great Command, which was for the <hi>Honour,</hi> and might have been (as in ſome Inſtances it prov'd) for the conſiderable <hi>Inte<g ref="char:EOLhyphen"/>reſt</hi> and <hi>Advantage</hi> of the <hi>Nation</hi> and <hi>Company.</hi> But in <hi>June</hi> 87. Two Veſſels of War belonging to the <hi>Company,</hi> beſieg'd and aſſaulted the Port of <hi>Mergen,</hi> where the <hi>Engliſh</hi> had the Government, which prov'd a fatal Occaſion of the <hi>Maſſacre</hi> of about ſixty of <hi>Our Country-men,</hi> One of the <hi>Company</hi>'s Veſſels being taken, and the other forc'd to ſecure himſelf by flight; Upon which, the <hi>King</hi> of <hi>Siam</hi> has proclaim'd War againſt the <hi>Company,</hi> But with a <hi>kind Invitation</hi> of all <hi>Engliſh-Men</hi> unconcern'd with them; to whom he promiſes the ſame Friendſhip as for<g ref="char:EOLhyphen"/>merly.</p>
+            <p>Theſe are brief Intimations of the late <hi>Illegal</hi> and <hi>Arbitrary Proceedings,</hi> which though they paſs under the Name of the <hi>Company,</hi> yet are really and juſtly char<g ref="char:EOLhyphen"/>geable on a few ruling Members in the Committee, and particularly on Sir <hi>JO<g ref="char:EOLhyphen"/>SIA CHILD,</hi> by whom they have been chiefly, if not ſolely, projected and perpetrated, He having for ſome years paſt uſurp'd ſuch <hi>a Deſpotic Power, and So<g ref="char:EOLhyphen"/>vereign Authority</hi> over all their Affairs here, as he has taught his <hi>Emiſſaries</hi> to aſſume and practice abroad: The Means whereby he has arriv'd to this arbitrary Dominion, being by that <hi>pernicious Cuſtom</hi> they have amongſt them of ma<g ref="char:EOLhyphen"/>king every 500 <hi>
+                  <abbr>l.</abbr> a Vote,</hi> and ſo his 50000 <hi>
+                  <abbr>l.</abbr> Stock,</hi> with ſome other conſiderable Sums that are under his management, has ſubjected the whole to his Diſpoſe: And tho' there is ſtill the Formality of a <hi>Committee,</hi> accord<g ref="char:EOLhyphen"/>ing to the number the <hi>Charter</hi> directs; Yet they are all, in effect, made choice of <hi>by himſelf,</hi> and Depoſable at his Pleaſure, as appears by the ſtrange Alte<g ref="char:EOLhyphen"/>rations have been lately made in turning out ſo many Gentlemen of known In<g ref="char:EOLhyphen"/>tegrity and long Experience in thoſe Affairs, becauſe they would not comply with his Unjuſt and Unwarrantable Proceedings; and ſupplying their Rooms with thoſe who have made up what they wanted in other Qualifications, by their entire Submiſſion to him in all things.</p>
+            <div type="conclusion">
+               <p>
+                  <hi>In Conſideration of the Premiſes, 'tis Humbly Pray'd</hi>
+               </p>
+               <p>That the <hi>Preſent Charter</hi> be Call'd in, and that becauſe the Trade may be beſt manag'd to a <hi>National Advantage</hi> by a <hi>Company:</hi>
+               </p>
+               <p>That a <hi>New Company</hi> be legally confirm'd with a Joynt-Stock, under ſuch a Conſtitution, as upon due Conſideration ſhall be moſt Adviſeable, And that ſome ſpeedy and Effectual Courſe be taken for the retrieving our loſt Credit, and re-eſtabliſhing our Commerce on ſuch a Bottom, as by a Prudent and regular Management afterwards, may conduce as well to the Publick Honour and Advantage, as the particular Intereſt of the Adventurers.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
